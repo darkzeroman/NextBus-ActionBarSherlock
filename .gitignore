@@ -1,6 +1,6 @@
-bin
+bin/
 gen
-.class
+*.class
 .DS_Store
 .metadata/
 
